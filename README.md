@@ -16,4 +16,4 @@
 
 综上所述，一个成功的资源站需要兼顾内容、结构与技术，不断根据用户需求调整优化策略。只有真正做到以用户为中心，提供稳定、优质、多样化的内容体验，才能在激烈的市场竞争中脱颖而出，占据一席之地。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/pls20250710/riben45303 ）</span>
